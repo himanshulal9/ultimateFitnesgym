@@ -1,0 +1,177 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?tyxys6');
+  src:  url('fonts/icomoon.eot?tyxys6#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?tyxys6') format('truetype'),
+    url('fonts/icomoon.woff?tyxys6') format('woff'),
+    url('fonts/icomoon.svg?tyxys6#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icons8-barbell-50:before {
+  content: "\e900";
+}
+.icon-icons8-bench-press-50:before {
+  content: "\e901";
+}
+.icon-icons8-bench-press-50-2:before {
+  content: "\e902";
+}
+.icon-icons8-biceps-50:before {
+  content: "\e903";
+}
+.icon-icons8-deadlift-50:before {
+  content: "\e904";
+}
+.icon-icons8-deadlift-50-2:before {
+  content: "\e905";
+}
+.icon-icons8-dumbbell-50:before {
+  content: "\e906";
+}
+.icon-icons8-exercise-50:before {
+  content: "\e907";
+}
+.icon-icons8-exercise-50-2:before {
+  content: "\e908";
+}
+.icon-icons8-exercise-50-3:before {
+  content: "\e909";
+}
+.icon-icons8-fitness-50:before {
+  content: "\e90a";
+}
+.icon-icons8-fitness-50-2:before {
+  content: "\e90b";
+}
+.icon-icons8-fitness-50-3:before {
+  content: "\e90c";
+}
+.icon-icons8-fitness-50-4:before {
+  content: "\e90d";
+}
+.icon-icons8-hamstrings-50:before {
+  content: "\e90e";
+}
+.icon-icons8-healthy-eating-50:before {
+  content: "\e90f";
+}
+.icon-icons8-jump-50:before {
+  content: "\e910";
+}
+.icon-icons8-jump-rope-50:before {
+  content: "\e911";
+}
+.icon-icons8-leg-50:before {
+  content: "\e912";
+}
+.icon-icons8-leg-50-2:before {
+  content: "\e913";
+}
+.icon-icons8-mommy-fitness-50:before {
+  content: "\e914";
+}
+.icon-icons8-neck-50:before {
+  content: "\e915";
+}
+.icon-icons8-neck-50-2:before {
+  content: "\e916";
+}
+.icon-icons8-postnatal-yoga-50:before {
+  content: "\e917";
+}
+.icon-icons8-posture-50:before {
+  content: "\e918";
+}
+.icon-icons8-posture-50-2:before {
+  content: "\e919";
+}
+.icon-icons8-prelum-50:before {
+  content: "\e91a";
+}
+.icon-icons8-prelum-50-2:before {
+  content: "\e91b";
+}
+.icon-icons8-prelum-50-3:before {
+  content: "\e91c";
+}
+.icon-icons8-pronation-of-foot-50:before {
+  content: "\e91d";
+}
+.icon-icons8-pullups-50:before {
+  content: "\e91e";
+}
+.icon-icons8-pullups-50-2:before {
+  content: "\e91f";
+}
+.icon-icons8-pushups-50:before {
+  content: "\e920";
+}
+.icon-icons8-spinning-50:before {
+  content: "\e921";
+}
+.icon-icons8-spinning-50-2:before {
+  content: "\e922";
+}
+.icon-icons8-sports-mode-50-2:before {
+  content: "\e923";
+}
+.icon-icons8-squats-50:before {
+  content: "\e924";
+}
+.icon-icons8-stepper-50:before {
+  content: "\e925";
+}
+.icon-icons8-stepper-50-2:before {
+  content: "\e926";
+}
+.icon-icons8-sumo-50:before {
+  content: "\e927";
+}
+.icon-icons8-sumo-50-2:before {
+  content: "\e928";
+}
+.icon-icons8-torso-50:before {
+  content: "\e929";
+}
+.icon-icons8-track-and-field-50:before {
+  content: "\e92a";
+}
+.icon-icons8-treadmill-50:before {
+  content: "\e92b";
+}
+.icon-icons8-triceps-50:before {
+  content: "\e92c";
+}
+.icon-icons8-triceps-50-2:before {
+  content: "\e92d";
+}
+.icon-icons8-water-park-50:before {
+  content: "\e92e";
+}
+.icon-icons8-weight-50:before {
+  content: "\e92f";
+}
+.icon-icons8-weight-50-2:before {
+  content: "\e930";
+}
+.icon-icons8-workout-50:before {
+  content: "\e931";
+}

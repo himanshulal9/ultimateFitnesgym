@@ -1,0 +1,333 @@
+/* ============================================================/= */
+/* ============================================================/=
+                                          /                                       /
+                                        /  Meqia Query for Index  /
+                                      /                                       / 
+    ============================================================/= */
+/* ============================================================/= */
+@media screen and (max-width: 319px) {
+	body {
+		min-width: 320px !important;
+		overflow-x: hidden;
+	}
+
+	nav .brand-logo {
+		font-size: 1.8rem !important;
+	}
+
+	.nav-wrapper {
+		width: 100% !important;
+		margin: 0px auto;
+	}
+
+	.header-wrap {
+		min-height: 575px !important;
+		height: auto;
+		background-image: linear-gradient(to bottom,
+				rgba(95, 105, 4, 0.65),
+				rgba(80, 25, 4, 0.62)),
+			url(../images/smallBackground.jpg) !important;
+		background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+	}
+
+	.header_cont {
+		padding: 3rem 0;
+	}
+
+	.welcome_msg {
+		font-size: 4rem !important;
+
+	}
+
+	.brandName {
+		font-family: roboto, sans-serif;
+		font-size: 2.8rem !important;
+		margin: 30px auto !important
+	}
+
+	.intro_descr {
+		font-size: 1.8rem !important;
+		padding-top: 30px !important;
+
+	}
+
+	.count_logo .fa {
+		font-size: 30px !important;
+	}
+
+
+
+}
+
+/* On screens that are between 320px and 450 or less, code will work*/
+@media screen and (min-width: 320px) and (max-width: 450px) {
+	.container {
+		width: 95% !important;
+	}
+
+	nav .brand-logo {
+		font-size: 1.9rem !important;
+	}
+
+	.nav-wrapper {
+		width: 96% !important;
+		margin: 0px auto;
+	}
+
+	.header-wrap {
+		min-height: 575px !important;
+		height: auto;
+		background-image: linear-gradient(to bottom,
+				rgba(95, 105, 4, 0.65),
+				rgba(80, 25, 4, 0.62)),
+			url(../images/smallBackground.jpg) !important;
+		background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+	}
+
+	.header_cont {
+		padding: 3rem 0;
+	}
+
+	.welcome_msg {
+		font-size: 4rem !important;
+
+	}
+
+	.brandName {
+		font-family: roboto, sans-serif;
+		font-size: 2.8rem !important;
+		margin: 30px auto !important
+	}
+
+	.intro_descr {
+		font-size: 1.8rem !important;
+		padding-top: 30px !important;
+
+	}
+
+
+	/* counter section  */
+	.animated_Count {
+		padding: 10px 0px !important;
+	}
+
+	.count-main {
+		padding: 5px !important;
+	}
+
+	.count_logo .fa {
+		font-size: 50px !important;
+	}
+
+	.count-num {
+		font-size: 35px !important;
+	}
+
+	/* section heading  */
+	.secti-head {
+		line-height: 55px !important;
+		font-size: 2.8rem !important;
+	}
+
+	.secti-desc {
+		font-size: 1.2rem !important;
+		line-height: 1.8rem !important;
+	}
+
+	/* image translate section  */
+	.intro-img-card {
+		margin-top: 20px;
+	}
+
+	.intro-img {
+		-ms-transform: translate(-12px, -12px);
+		-webkit-transform: translate(-12px, -12px);
+		transform: translate(-12px, -12px) !important;
+	}
+}
+
+/* On screens that are between 451px and 600 or less, code will work*/
+@media screen and (min-width: 451px) and (max-width: 600px) {
+	.header-wrap {
+		min-height: 650px !important;
+		height: auto;
+		background-image: linear-gradient(to bottom,
+				rgba(95, 105, 4, 0.65),
+				rgba(80, 25, 4, 0.62)),
+			url(../images/back_small.jpg);
+		background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+	}
+
+	.header_cont {
+		padding: 3.5rem 0 3rem 0;
+	}
+
+	.welcome_msg {
+		font-size: 6rem !important;
+
+	}
+
+	.brandName {
+		font-family: roboto, sans-serif;
+		font-size: 4rem !important;
+		margin: 30px auto !important
+	}
+
+	.intro_descr {
+		font-size: 2.5rem;
+		padding-top: 30px;
+
+	}
+
+	/* counter section  */
+	.animated_Count {
+		padding: 10px 0px !important;
+	}
+
+	.count-main {
+		padding: 5px !important;
+	}
+
+	.count_logo .fa {
+		font-size: 50px !important;
+	}
+
+	/* section heading  */
+	.secti-head {
+		line-height: 60px !important;
+		font-size: 2.9rem !important;
+	}
+
+	.secti-desc {
+		font-size: 1.3rem !important;
+		line-height: 1.9rem !important;
+	}
+
+	/* image translate section  */
+	.intro-img-card {
+		margin-top: 20px;
+		max-width: 410px;
+		margin: 10px auto;
+	}
+
+	.intro-img {
+		-ms-transform: translate(-14px, -14px);
+		-webkit-transform: translate(-14px, -14px);
+		transform: translate(-14px, -14px) !important;
+	}
+}
+
+/* On screens that are between 601px and 700 or less, code will work*/
+@media screen and (min-width: 601px) and (max-width: 700px) {
+	.header-wrap {
+		min-height: 700px !important;
+		height: auto;
+	}
+
+	.header_cont {
+		padding: 4.5rem 0 3rem 0;
+	}
+
+	.welcome_msg {
+		font-size: 7rem !important;
+
+	}
+
+	.brandName {
+		font-family: roboto, sans-serif;
+		font-size: 4.5rem !important;
+		margin: 30px auto !important
+	}
+
+	.intro_descr {
+		font-size: 3rem;
+		padding-top: 30px;
+
+	}
+
+
+	/* counter section  */
+	.animated_Count {
+		padding: 10px 0px !important;
+	}
+
+	.count-num {
+		font-size: 30px !important;
+		line-height: 17px !important;
+	}
+
+	.count-main {
+		padding: 5px !important;
+	}
+
+	.count_logo .fa {
+		font-size: 50px !important;
+	}
+}
+
+/* On screens that are between 701px and 800 or less, code will work*/
+@media screen and (min-width: 701px) and (max-width: 800px) {
+	.header-wrap {
+		min-height: 650px !important;
+		height: auto;
+	}
+
+	.header_cont {
+		padding: 5rem 0 3rem 0;
+	}
+
+	.welcome_msg {
+		font-size: 7.5rem !important;
+
+	}
+
+	.brandName {
+		font-family: roboto, sans-serif;
+		font-size: 5rem !important;
+		margin: 30px auto !important
+	}
+
+	.intro_descr {
+		font-size: 3.5rem;
+		padding-top: 30px;
+
+	}
+
+
+	/* counter section  */
+	.animated_Count {
+		padding: 10px 0px !important;
+	}
+
+	.count-num {
+		font-size: 30px !important;
+		line-height: 17px !important;
+	}
+
+	.count-main {
+		padding: 5px !important;
+	}
+
+	.count_logo .fa {
+		font-size: 50px !important;
+	}
+}
+
+/* On screens that are 900 or less, code will work*/
+@media screen and (max-width: 960px) {
+	.bars {
+		display: block !important;
+	}
+
+	.nav_mobile {
+		display: none !important;
+	}
+
+
+}
